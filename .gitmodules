@@ -1,0 +1,3 @@
+[submodule "external/ukflib"]
+	path = external/ukflib
+	url = https://github.com/sciencectn/ukflib.git
